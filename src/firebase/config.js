@@ -20,7 +20,8 @@ import {
 // import { getDatabase } from 'firebase/database';
 
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  // apiKey: import.meta.env.VITE_FIREBASE_API_KEY,
+  apiKey: "AIzaSyC-lG3HROSbHo1Mant4Ewq2CsBR76yNmNE",
   authDomain: "website-3bb62.firebaseapp.com",
   projectId: "website-3bb62",
   storageBucket: "website-3bb62.appspot.com",
